@@ -1,5 +1,5 @@
 all:    client server
-        gcc client_server.c -o client_server
+        gcc Client_Server.c -o client_server
 
 server: ./client_server
 
