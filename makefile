@@ -1,1 +1,1 @@
-
+all: client server
